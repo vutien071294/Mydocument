@@ -187,6 +187,7 @@ if (is_dir($application_folder)) {
  *
  * And away we go...
  *
+ tienvv edit
  */
 
 require_once BASEPATH . 'core/CodeIgniter.php';
